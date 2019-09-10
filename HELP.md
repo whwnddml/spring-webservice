@@ -23,3 +23,5 @@ These additional references should also help you:
 
 * [Gradle Build Scans – insights for your project's build](https://scans.gradle.com#gradle)
 
+H2 DB console url : http://localhost:8080/h2-console
+jdbc url : jdbc:h2:mem:testdb
